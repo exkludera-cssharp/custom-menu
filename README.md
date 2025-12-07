@@ -20,7 +20,7 @@
 >
 > permission based or team based menus and commands
 >
-> every menu and menu option has a bunch of settings, <a href="#config">see examples</a>
+> every menu and menu option has a bunch of settings, <a href="https://github.com/exkludera-cssharp/custom-menu/tree/main/examples">see examples</a>
 
 ## Requirements
 - [MetaMod](https://github.com/alliedmodders/metamod-source)
