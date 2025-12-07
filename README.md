@@ -1,30 +1,44 @@
-# cs2-custom-menu
-**a plugin to create customizable menus**
+<div align="center">
+  <img width="50" height="50" alt="cssharp" src="https://github.com/user-attachments/assets/3393573f-29be-46e1-bc30-fafaec573456" />
+	<h3><strong>Custom Menu</strong></h3>
+	<h4>a plugin to create customizable menus</h4>
+	<h2>
+		<img src="https://img.shields.io/github/downloads/exkludera-cssharp/custom-menu/total" alt="Downloads">
+		<img src="https://img.shields.io/github/stars/exkludera-cssharp/custom-menu?style=flat&logo=github" alt="Stars">
+		<img src="https://img.shields.io/github/forks/exkludera-cssharp/custom-menu?style=flat&logo=github" alt="Forks">
+		<img src="https://img.shields.io/github/license/exkludera-cssharp/custom-menu" alt="License">
+	</h2>
+	<!--<a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord%20Server-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a> <br>-->
+	<a href="https://ko-fi.com/exkludera" target="_blank"><img src="https://img.shields.io/badge/KoFi-af00bf?style=for-the-badge&logo=kofi&logoColor=white" alt="Buy Me a Coffee at ko-fi.com" /></a>
+	<a href="https://paypal.com/donate/?hosted_button_id=6AWPNVF5TLUC8" target="_blank"><img src="https://img.shields.io/badge/PayPal-0095ff?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"  /></a>
+	<a href="https://github.com/sponsors/exkludera" target="_blank"><img src="https://img.shields.io/badge/Sponsor-696969?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsor" /></a>
+</div>
+
+<br>
+
 > supports ChatMenu/ConsoleMenu/CenterHtmlMenu/WasdMenu/ScreenMenu
 >
 > permission based or team based menus and commands
 >
-> every menu and menu option has a bunch of settings, <a href="#config-example">see examples</a>
+> every menu and menu option has a bunch of settings, <a href="#config">see examples</a>
 
-<br>
-
-<details>
-	<summary>showcase</summary>
-	<video src="https://github.com/user-attachments/assets/07574910-1b56-48e4-90de-39342743bdaa">
-</details>
-
-<br>
-
-## information:
-
-### requirements
+## Requirements
 - [MetaMod](https://github.com/alliedmodders/metamod-source)
 - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
 - [CS2MenuManager](https://github.com/schwarper/CS2MenuManager)
-<br>
 
-## example config
-<a name="config-example"></a>
+## Showcase
+<details>
+	<summary>content</summary>
+	<video src="https://github.com/user-attachments/assets/07574910-1b56-48e4-90de-39342743bdaa">
+</details>
+
+## Config
+<a name="config"></a>
+
+<details>
+<summary>CustomMenu.json</summary>
+  
 **Message** - Default: `true` (sends no permission & selecting message) <br>
 
 **Type** - Default: `"CenterHtmlMenu"` (ChatMenu/ConsoleMenu/CenterHtmlMenu/WasdMenu/ScreenMenu) <br>
@@ -81,5 +95,4 @@
   }
 }
 ```
-
-<br> <a href="https://ko-fi.com/exkludera" target="blank"><img src="https://cdn.ko-fi.com/cdn/kofi5.png" height="48px" alt="Buy Me a Coffee at ko-fi.com"></a>
+</details>
